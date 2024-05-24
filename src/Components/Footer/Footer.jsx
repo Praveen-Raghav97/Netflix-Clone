@@ -27,7 +27,7 @@ const Footer = () => {
           <li>Cookies Preference</li>
           <li>Contect Us</li>
           <li>Corprate Information</li>
-        <p className='copyright-text'>#9127-5678-3423 Netflix, Inc.</p>
+        <p className='copyright-text'>Netflix-Clone by Praveen Raghav</p>
 
         </ul>
     </div>
